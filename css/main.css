@@ -81,7 +81,7 @@ body {
     font-style  : normal;
     font-weight : normal;
     line-height : 1.789;
-    color       : #520411;
+    color       : #0c0b0b;
     margin      : 0;
     padding     : 0;
 }
@@ -2176,7 +2176,7 @@ input::-moz-focus-inner {
     -ms-flex-flow     : column nowrap;
     flex-flow         : column nowrap;
     width             : 300px;
-    background-color  : #151515;
+    background-color  : #520411;
     padding-top       : 6.4rem;
     padding-right     : 3.2rem;
     padding-left      : 4.4rem;
@@ -2227,7 +2227,7 @@ input::-moz-focus-inner {
     -ms-flex-align          : stretch;
     align-items             : stretch;
     max-width               : 100%;
-    background-color        : #151515;
+    background-color        : #520411;
     margin-top              : 3.2rem;
 }
 
