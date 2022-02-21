@@ -81,7 +81,7 @@ body {
     font-style  : normal;
     font-weight : normal;
     line-height : 1.789;
-    color       : #000000;
+    color       : #520411;
     margin      : 0;
     padding     : 0;
 }
@@ -123,7 +123,7 @@ h1, h2, h3, h4, h5, h6,
     font-family            : "Heebo", sans-serif;
     font-weight            : 500;
     font-style             : normal;
-    color                  : #000000;
+    color                  : #520411;
     font-variant-ligatures : common-ligatures;
     text-rendering         : optimizeLegibility;
 }
@@ -210,7 +210,7 @@ p.lead {
     font-size     : 2.4rem;
     line-height   : 1.833;
     margin-bottom : 3.6rem;
-    color         : #000000;
+    color         : #520411;
 }
 
 @media screen and (max-width: 1200px) {
@@ -571,7 +571,7 @@ form,
 
 #loader>div {
     content       : "";
-    background    : #000000;
+    background    : #520411;
     width         : 6px;
     height        : 6px;
     position      : absolute;
@@ -921,7 +921,7 @@ input[type="button"] {
     line-height             : 5.6rem;
     padding                 : 0 3.2rem;
     margin                  : 0 .4rem 1.6rem 0;
-    color                   : #000000;
+    color                   : #520411;
     text-decoration         : none;
     text-align              : center;
     white-space             : nowrap;
@@ -945,7 +945,7 @@ input[type="reset"]:focus,
 input[type="button"]:focus {
     background-color : #c3c3c3;
     border-color     : #c3c3c3;
-    color            : #000000;
+    color            : #520411;
     outline          : 0;
 }
 
@@ -956,8 +956,8 @@ button.btn--primary,
 input[type="submit"].btn--primary,
 input[type="reset"].btn--primary,
 input[type="button"].btn--primary {
-    background   : #000000;
-    border-color : #000000;
+    background   : #520411;
+    border-color : #520411;
     color        : #ffffff;
 }
 
@@ -999,7 +999,7 @@ button.btn--large {
 button.btn--stroke {
     background : transparent !important;
     border     : 0.2rem solid #000000;
-    color      : #000000;
+    color      : #520411;
 }
 
 .btn--stroke:hover,
@@ -1043,7 +1043,7 @@ input::-moz-focus-inner {
     line-height : 6rem;
     text-indent : 0;
     background  : transparent;
-    color       : #000000;
+    color       : #520411;
 }
 
 /* line definition style 
@@ -1169,7 +1169,7 @@ input::-moz-focus-inner {
     font-family : "Heebo", sans-serif;
     font-weight : 700;
     border      : none;
-    color       : #000000;
+    color       : #520411;
 }
 
 .stats-tabs li a:hover {
@@ -1217,7 +1217,7 @@ input::-moz-focus-inner {
 }
 
 .skill-bars li .progress {
-    background : #000000;
+    background : #520411;
     position   : relative;
     height     : 100%;
 }
@@ -1231,7 +1231,7 @@ input::-moz-focus-inner {
     color         : #ffffff;
     font-size     : 1.1rem;
     line-height   : 1;
-    background    : #000000;
+    background    : #520411;
     padding       : .8rem .8rem;
     border-radius : 3px;
 }
@@ -1244,7 +1244,7 @@ input::-moz-focus-inner {
     width            : 0;
     height           : 0;
     border           : 5px solid transparent;
-    border-top-color : #000000;
+    border-top-color : #520411;
     content          : "";
 }
 
