@@ -1545,9 +1545,9 @@ input::-moz-focus-inner {
 }
 .display-2 {
     font-size      : 4.6rem;
-    line-height    : 1.143;
-    letter-spacing : -.05rem;
-    margin-top     : .2rem;
+    line-height    : 1.1;
+    letter-spacing : -.09rem;
+    margin-top     : 0;
     margin-bottom  : .8rem;
 }
 /* ------------------------------------------------------------------- 
