@@ -3035,7 +3035,7 @@ body.search-is-visible {
     content : "|";
     display : inline-block;
     padding : 0 1.2rem 0 1.4rem;
-    color   : rgba(0, 0, 0, 0.3);
+    color   : rgba(0, 0, 0, 0.5);
 }
 
 .footer__copyright span:last-child::after {
